@@ -2,9 +2,9 @@
 
 I will be writing sorting algorithm for 
 
-mergesorting
+mergesorting [done]
 
-quicksort
+quicksort [done - python only]
 
 heapsort
 
